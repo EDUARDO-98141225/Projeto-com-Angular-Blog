@@ -6,6 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
+  photoCover: string ='https://i.ytimg.com/vi/Jyj_qIKL_f8/maxresdefault.jpg'
+  contentTitle: string = ''
+  contentDescription:string = ''
+
 
   constructor() { }
 

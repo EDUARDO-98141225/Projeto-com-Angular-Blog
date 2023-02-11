@@ -6,9 +6,16 @@
   box-sizing: border-box;
   color: white;
   font-family: 'Segoe UI';
+  text-align: center;
+  justify-content:flex-start;
+  font-size: 15px;
+
+
 
 }
 
 a{
   text-decoration: none;
+
+
 }
